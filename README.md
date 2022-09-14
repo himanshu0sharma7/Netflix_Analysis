@@ -1,4 +1,4 @@
-#################################################################      NETFLIX ANALYSIS    ############################################################################
+############################      NETFLIX ANALYSIS    ##############################
 
 Introduction
 Netflix, Inc. is an American subscription streaming service and production company based in Los Gatos, California. Founded on August 29, 1997, by Reed Hastings and Marc Randolph in California, it offers a film and television series library through distribution deals as well as its productions, known as Netflix Originals. As of June 30, 2022, Netflix had 220.7 million subscribers worldwide, including 73.3 million in the United States and Canada, 73.0 million in Europe, the Middle East, and Africa, 39.6 million in Latin America, and 34.8 million in the Asia-Pacific region.[12] It is available worldwide aside from Mainland China, Syria, North Korea, and Russia. Netflix has played a prominent role in independent film distribution and is a member of the Motion Picture Association (MPA).
